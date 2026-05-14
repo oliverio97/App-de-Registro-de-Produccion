@@ -33,6 +33,7 @@ Todos los datos se sincronizan en tiempo real con una lista de SharePoint, que a
 - Historial completo de producción.
 - Exportación de datos para análisis posterior.
 <img width="1603" height="551" alt="image" src="https://github.com/user-attachments/assets/4e13285b-3a56-49c4-863b-436ed62c3068" />
+
 ## 🛠️ Tecnologías Utilizadas
 - **Microsoft Power Apps:** Desarrollo de la interfaz low-code y lógica de negocio.
 - **SharePoint Online:** Motor de base de datos y gestión de listas.
